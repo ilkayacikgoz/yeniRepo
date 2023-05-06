@@ -5,5 +5,6 @@ public class Class01 {
         // V3 çalışmaları
         //Github değişiklikleri...
         //V5
+        //V6
     }
 }
